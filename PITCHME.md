@@ -76,7 +76,7 @@ kehidupan yang efektif, sukses dan bahagia jika mempelajari dan mengintegrasi pr
 Kemudian menjadi berkembang baik dengan pesat, memiliki PRESTASI.
 
 ---
-"Selidikah hati nurani dengan tekun, karena dari situ bersumber masalah kehidupan"
+#### "Selidikah hati nurani dengan tekun, karena dari situ bersumber masalah kehidupan"
 
 ---
 #### Kehebatan primer dan sekunder
