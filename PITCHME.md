@@ -42,6 +42,11 @@ Dan bagaimana cara kita memandang mempengaruhi bagaimana kita berperilaku.
 
 ---
 
+### Harus mengetahui apa bakat mereka
+[Flux Explained](https://raw.githubusercontent.com/youvandra/first-presentasi/master/093348600_1487356997-ProjectImages_Pentingnya-Mengenali-Bakat-Anak-Sejak-Dini.jpg)
+
+---
+
 # Etika Kepribadian dan Karakter
 ![Flux Explained](https://raw.githubusercontent.com/youvandra/first-presentasi/master/personality.jpg)
 
@@ -87,4 +92,10 @@ Kemudian menjadi berkembang baik dengan pesat, memiliki PRESTASI.
 ![Flux Explained](https://raw.githubusercontent.com/youvandra/first-presentasi/master/GQ_Day5_Ciri-Ciri-Pribadi-Sombong.png)
 
 ---
+
+#### Banyak yang memiliki kehebatan sekunder yaitu kehebatan atas pengakuan sosial diri sendiri bukan memiliki kehebatan primer atau kehebatan atas karakter yang baik.
+
+
+---
+
 
