@@ -14,7 +14,7 @@
 "Putra saya yang masih remaja sering memberontak dan kecanduan narkoba. Semua nasihat yang sata sampaikan tak dihiraukannya. Apa yang dapat saya lakukan?"
 
 ---
-![Flux Explained]()
+![Flux Explained](https://raw.githubusercontent.com/youvandra/first-presentasi/master/anak.jpg)
 #### Anaknya
 - memiliki banyak permasahalan
 - menjadi peran penting untuk membantu pada "kesuksesan" nya.
@@ -57,6 +57,7 @@ kehidupan yang efektif, sukses dan bahagia jika mempelajari dan mengintegrasi pr
 - Citra depan umum
 - Perilaku dan sikap
 - Keterampilan dan teknik
+
 ##### Dua jalur
 - teknik berhubungan dengan manusia dan masyarakat
 - sikap mental positif
