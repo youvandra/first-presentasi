@@ -15,7 +15,9 @@
 
 ---
 ![Flux Explained](https://raw.githubusercontent.com/youvandra/first-presentasi/master/anak.jpg)
-#### Anaknya
+### Anaknya
+---
+
 - memiliki banyak permasahalan
 - menjadi peran penting untuk membantu pada "kesuksesan" nya.
 - gagal menjadi peran penting
