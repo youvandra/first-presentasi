@@ -16,7 +16,7 @@
 
 ---
 
-![Flux Explained](https://raw.githubusercontent.com/youvandra/first-presentasi/master/dki-kalahkan-lampung-maldcd-prv.jpg)
+![Flux Explained]()
 #### Anaknya
 - memiliki banyak permasahalan
 - menjadi peran penting untuk membantu pada "kesuksesan" nya.
@@ -47,7 +47,7 @@ Dan bagaimana cara kita memandang mempengaruhi bagaimana kita berperilaku.
 
 ---
 
-# Etika Kepribadian dan Karakter
+##### Etika Kepribadian dan Karakter
 ![Flux Explained](https://raw.githubusercontent.com/youvandra/first-presentasi/master/personality.jpg)
 
 ---
@@ -71,7 +71,7 @@ kehidupan yang efektif, sukses dan bahagia jika mempelajari dan mengintegrasi pr
 
 ---
 
-# Induvidualitas dan membiarkan ke khasannya
+#### Induvidualitas dan membiarkan ke khasannya
 ![Flux Explained](https://raw.githubusercontent.com/youvandra/first-presentasi/master/a-babysitter-the-top-tips-for-hiring-a-basitter-for-the-first-time.jpg)
 
 ---
