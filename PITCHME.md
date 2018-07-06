@@ -42,8 +42,8 @@ Dan bagaimana cara kita memandang mempengaruhi bagaimana kita berperilaku.
 
 ---
 
-### Harus mengetahui apa bakat mereka
-[Flux Explained](https://raw.githubusercontent.com/youvandra/first-presentasi/master/093348600_1487356997-ProjectImages_Pentingnya-Mengenali-Bakat-Anak-Sejak-Dini.jpg)
+#### Harus mengetahui apa bakat mereka
+![Flux Explained](https://raw.githubusercontent.com/youvandra/first-presentasi/master/093348600_1487356997-ProjectImages_Pentingnya-Mengenali-Bakat-Anak-Sejak-Dini.jpg)
 
 ---
 
