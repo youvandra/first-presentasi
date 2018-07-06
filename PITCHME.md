@@ -88,7 +88,7 @@ Kemudian menjadi berkembang baik dengan pesat, memiliki PRESTASI.
 
 ---
 
-## Kehebatan primer dan sekunder
+#### Kehebatan primer dan sekunder
 ![Flux Explained](https://raw.githubusercontent.com/youvandra/first-presentasi/master/GQ_Day5_Ciri-Ciri-Pribadi-Sombong.png)
 
 ---
