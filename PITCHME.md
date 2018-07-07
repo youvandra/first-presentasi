@@ -17,7 +17,7 @@
 ![Flux Explained](https://raw.githubusercontent.com/youvandra/first-presentasi/master/anak.jpg)
 ### Anaknya
 ---
-
+@ol
 - memiliki banyak permasahalan
 - menjadi peran penting untuk membantu pada "kesuksesan" nya.
 - gagal menjadi peran penting
@@ -31,7 +31,7 @@ Dan bagaimana cara kita memandang mempengaruhi bagaimana kita berperilaku.
 
 ---
 ### Sadar
-
+@ol
 - Tidak selaras dengan memandang
 - persepsi SALAH
 - Usaha tidak efektif
@@ -55,12 +55,14 @@ kehidupan yang efektif, sukses dan bahagia jika mempelajari dan mengintegrasi pr
 
 ---
 ### Etika Kepribadian
+@ol
 - Kesuksesan lebih merupakan fungsi kepribadian
 - Citra depan umum
 - Perilaku dan sikap
 - Keterampilan dan teknik
 
 ##### Dua jalur
+@ol
 - teknik berhubungan dengan manusia dan masyarakat
 - sikap mental positif
 
@@ -69,6 +71,7 @@ kehidupan yang efektif, sukses dan bahagia jika mempelajari dan mengintegrasi pr
 ![Flux Explained](https://raw.githubusercontent.com/youvandra/first-presentasi/master/a-babysitter-the-top-tips-for-hiring-a-basitter-for-the-first-time.jpg)
 
 ---
+@ol
 - Tidak membandingkan dan menghakiminya
 - Berhenti sesuai citra orang tua
 - Berhenti membandingkan dengan harapan sosial
