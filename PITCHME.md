@@ -35,7 +35,7 @@ Dan bagaimana cara kita memandang mempengaruhi bagaimana kita berperilaku.
 - Tidak selaras dengan memandang
 - persepsi SALAH
 - Usaha tidak efektif
-
+@ol
 "Perlu mengubah diri sendiri, yang terpenting mengubah persepsinya"
 
 ---
