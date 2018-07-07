@@ -31,11 +31,9 @@ Dan bagaimana cara kita memandang mempengaruhi bagaimana kita berperilaku.
 
 ---
 ### Sadar
-@ol
 - Tidak selaras dengan memandang
 - persepsi SALAH
 - Usaha tidak efektif
-@ol
 "Perlu mengubah diri sendiri, yang terpenting mengubah persepsinya"
 
 ---
