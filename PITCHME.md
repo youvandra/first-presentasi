@@ -41,7 +41,7 @@ Bahasa pemrograman fungsional yang pertama adalah LISP yang dirancang oleh John 
 - Pemrograman Fungsional Tidak Murni
 
 ---
-#### Pemrograman Fungsional Murni
+### Pemrograman Fungsional Murni
 Pemrograman murni fungsional biasanya menunjuk paradigma pemrograman — gaya membangun struktur dan elemen-elemen program komputer — yang memperlakukan semua perhitungan sebagai evaluasi fungsi matematika.
 
 ---
@@ -56,7 +56,7 @@ Haskell diambil dari nama seseorang matematikawan Haskell Curry, yang terkenal a
 Contoh lainnya ada Agda, Clean, Miranda
 
 ---
-##### Bahasa Pemrograman Fungsional Tidak Murni
+#### Bahasa Pemrograman Fungsional Tidak Murni
 
 ###### Elixir
 Elixir adalah sebuah bahasa pemrograman fungsional, konkuren dan untuk berbagai keperluan yang berjalan dalam Mesin Virtual bahasa Erlang.
