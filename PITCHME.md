@@ -56,7 +56,7 @@ Haskell diambil dari nama seseorang matematikawan Haskell Curry, yang terkenal a
 Contoh lainnya ada Agda, Clean, Miranda
 
 ---
-#### Bahasa Pemrograman Fungsional Tidak Murni
+### Bahasa Pemrograman Fungsional Tidak Murni
 
 ###### Elixir
 Elixir adalah sebuah bahasa pemrograman fungsional, konkuren dan untuk berbagai keperluan yang berjalan dalam Mesin Virtual bahasa Erlang.
