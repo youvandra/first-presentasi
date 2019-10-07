@@ -1,4 +1,4 @@
-# Pemrograman Fungsional
+## Pemrograman Fungsional
 ---
 ## Assalamu'alaikum
 ---
@@ -54,6 +54,7 @@
 ###### Haskell
 "Haskell diambil dari nama seseorang matematikawan Haskell Curry, yang terkenal akan karyanya di bidang combinatory logic. Haskell hanya mengenal expression dan equation. Contoh lainnya ada Agda, Clean, Miranda"
 
+---
 ##### Bahasa Pemrograman Fungsional Tidak Murni
 
 ###### Elixir
